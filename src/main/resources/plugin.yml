@@ -1,0 +1,7 @@
+name: Kz2wdSheepwars
+version: '${version}'
+main: com.cludivers.kz2wdsheepwars.Kz2wdSheepwars
+api-version: 1.19
+commands:
+  start:
+    description: launch the game
